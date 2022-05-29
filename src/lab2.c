@@ -1,4 +1,4 @@
-// 嵌入式 实验2
+// 嵌入式 实验2 -- file operation: open write read close lseek
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>
